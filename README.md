@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Samuel 💎 A developer passionate about creating and sharing projects. Welcome to my GitHub!</h2>
+<h1 align="start">Hi, I'm Samuel 💎 A developer passionate about creating and sharing projects. Welcome to my GitHub!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">I build apps with :</h2>
+<h1 align="start">💻 Tech Stack:</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="center">Lets talk:</h2>
+<h2 align="start">🔗 Lets link up:</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="center">Visit my portofolio if you wish to know more about me: https://samuelcoelho.dev/</h2>
+<h1 align="center">🧠 Learn more about me: https://samuelcoelho.dev/</h1>
 
 ###
 

@@ -2,18 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devStr0ke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=My%20stats" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devStr0ke&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-</div>
 
-###
-
-<br clear="both">
-
-<h3 align="left">I'm a Full Stack Developer with a passion for exploring Web 3 technologies. Currently, my focus is on building innovative projects using Next.js for modern web experiences and Rust for powerful, efficient backend solutions. I love pushing the boundaries of what's possible in decentralized applications.  <br><br><br>Check out my repositories to see what I'm working on, and feel free to connect or collaborate! 🚀</h3>
-
-###
 
 <br clear="both">
 

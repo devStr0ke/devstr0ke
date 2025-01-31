@@ -81,9 +81,3 @@
 <img src="https://raw.githubusercontent.com/devStr0ke/devStr0ke/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/devStr0ke/count.svg?"  />
-</div>
-
-###

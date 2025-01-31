@@ -1,15 +1,5 @@
 <h2 align="left">Hi, I'm Samuel 💎</h2>
-
-
-
 ###
-
-<br clear="both">
-
-<h3 align="left">I specialize in Next.js, crafting seamless and efficient web solutions that prioritize both functionality and design. With a strong foundation in algorithms, I approach problems with clean and effective code. I have an itch for perfect design—every pixel matters to me. I believe that great user experiences are built on the harmony between performance and precision, ensuring that every project is both visually stunning and highly functional.</h3>
-
-###
-
 <br clear="both">
 
 <h2 align="left">🔗 Lets link up:</h2>

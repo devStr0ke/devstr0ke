@@ -9,9 +9,3 @@
 <h3 align="left">🌐 Explore My Portfolio: <br><br>Check out my work and projects at https://samuelcoelho.dev (not finished yet)<br><br><br>💌 Don’t hesitate to reach out at samuel.coelho@voidsoftware.pro - I’m always open to new opportunities and collaborations!</h3>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devStr0ke/devStr0ke/output/snake.svg" alt="Snake animation" />
-
-###

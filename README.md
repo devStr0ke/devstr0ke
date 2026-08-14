@@ -11,8 +11,8 @@
 
 ```javascript
 const about = {
-  code: [Python, Go, Rust, NodeJS],
-  frameworks: [Django, React, React Native, Vue],
+  code: [Python, Go, Rust, NodeJS, Java],
+  frameworks: [Django, React, React Native, Vue, Angular, Spring],
   infrastructure: [AWS, GCP, Docker, Kubernetes, Nginx, Dokploy],
   architecture: ["microservices", "system design"],
   interests: ["BJJ", "Machine Learning"]
